@@ -2,7 +2,7 @@
   "name": "lumino-theme",
   "displayName": "Lumino Theme",
   "description": "A calm dark theme for VS Code.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "publisher": "AvishkarDurge",
   "icon": "assets/Logo.png",
   "galleryBanner": {

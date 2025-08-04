@@ -13,7 +13,7 @@ A calm dark theme with soothing colors designed for focused, eye-friendly coding
   The lightest of the darks — soft and soothing.
 
   <p>
-   <img src="assets/Shadow.png.png" alt="Lumino" width="500" />
+   <img src="assets/Shadow.png.png" alt="Shadow" width="500" />
   </p>
 
 - ### 🌇 Lumino Noir
@@ -21,7 +21,7 @@ A calm dark theme with soothing colors designed for focused, eye-friendly coding
   A medium-dark theme with atmospheric tones.
 
   <p >
-   <img src="assets/Noir.png" alt="Lumino" width="500" />
+   <img src="assets/Noir.png" alt="Noir" width="500" />
   </p>
 
 - ### 🌃 Lumino Obsidian
@@ -29,7 +29,7 @@ A calm dark theme with soothing colors designed for focused, eye-friendly coding
   The darkest and deepest – perfect for night owls.
 
   <p >
-   <img src="assets/Obsidian.png" alt="Lumino" width="500" />
+   <img src="assets/Obsidian.png" alt="obsidian" width="500" />
   </p>
 
 ## ⚙️ Installation
