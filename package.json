@@ -2,11 +2,11 @@
   "name": "lumino-theme",
   "displayName": "Lumino Theme",
   "description": "A calm dark theme for VS Code.",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "AvishkarDurge",
   "icon": "assets/Logo.png",
   "galleryBanner": {
-    "color": "#080808",
+    "color": "#3B3F51",
     "theme": "dark"
   },
     "repository": {
@@ -22,19 +22,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Lumino Dusk",
+        "label": "Lumino Shadow",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lumino-Dusk.json"
+        "path": "./themes/Lumino-Shadow.json"
       },
       {
-        "label": "Lumino Horizon",
+        "label": "Lumino Noir",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lumino-Horizon.json"
+        "path": "./themes/Lumino-Noir.json"
       },
       {
-        "label": "Lumino Midnight",
+        "label": "Lumino Obsidian",
         "uiTheme": "vs-dark",
-        "path": "./themes/Lumino-Midnight.json"
+        "path": "./themes/Lumino-Obsidian.json"
       }
     ]
   },

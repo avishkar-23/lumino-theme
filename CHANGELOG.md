@@ -11,3 +11,6 @@ All notable changes to the **Lumino Themes** extension will be documented in thi
 - Introduced **Lumino Horizon** – a balanced dark theme with depth.
 - Introduced **Lumino Midnight** – ultra-dark mode for night coders.
 - Added support for syntax highlighting across major languages.
+
+## [1.0.1] – 2025-08-04
+- Changes names of theme
