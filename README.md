@@ -13,7 +13,7 @@ A calm dark theme with soothing colors designed for focused, eye-friendly coding
   The lightest of the darks — soft and soothing.
 
   <p>
-   <img src="assets/Shadow.png.png" alt="Shadow" width="500" />
+   <img src="assets/Shadow.png" alt="Shadow" width="500" />
   </p>
 
 - ### 🌇 Lumino Noir
