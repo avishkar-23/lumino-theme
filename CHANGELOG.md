@@ -16,3 +16,7 @@ All notable changes to the **Lumino Themes** extension will be documented in thi
 ## [2.0.0] – 2025-08-04
 
 - Changes names of theme
+
+## [3.0.0] – 2025-08-04
+
+- Logo change
