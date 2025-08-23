@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Logo-main.png" alt="Lumino" width="150" />
+  <img src="assets/Logo.png" alt="Lumino" width="150" />
 </p>
 
 <h3 align="center">⭐ Lumino Themes for VS Code</h3>
